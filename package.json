@@ -1,0 +1,14 @@
+{
+  "name": "bisheng-plugin-rhino",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib"
+  ],
+  "author": "",
+  "license": "ISC"
+}
